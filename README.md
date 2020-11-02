@@ -1,5 +1,5 @@
 # Book Management Program
-[2020-10-19] Book Management Program with MFC Programming (C++) For Midterm Project
+[2020-10-19] Book Management Program with MFC Programming (C++) for Midterm Project
 
 ### 프로그램 개발 환경
 - Language : C++
